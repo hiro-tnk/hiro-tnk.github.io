@@ -1,3 +1,5 @@
 
-var map = document.querySelector('#map').contentDocument,
-$map = $(map);
+var map = document.querySelector('#map');
+var svgDoc;
+svgDoc = map.contentDocument;
+$map = $(svgDoc);
