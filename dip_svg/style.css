@@ -30,10 +30,6 @@ border-top:solid 1px #333;
 text-align:center;
 padding:10px;
 }
-
-#mapArea{ height: 100% }
+#radios{float: left}
+#mapArea{ float: right; height: 100% }
 #map{ height: 100% }
-
-#imaginalSvgArea{
- height: 100% 
-}

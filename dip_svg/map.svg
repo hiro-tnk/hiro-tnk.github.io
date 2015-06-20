@@ -87,9 +87,9 @@
 <svg viewBox="0 0 610 560" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>Diplomacy</title>
 <desc>
-Variant SVG coding 2006 by Martin Asal
+Variant SVG coding 2015 by hiro-tnk
+This is modification of "Variant SVG coding 2006 by Martin Asal"
 Copyright: CC-BY-SA-3.0-DE  (http://creativecommons.org/licenses/by-sa/3.0/deed.de)
-Created for Diplomap (http://www.games2relax.net/diplomap/)
 </desc>
 
 <defs>
@@ -511,12 +511,12 @@ Created for Diplomap (http://www.games2relax.net/diplomap/)
 	<text x="155" y="254">Yor</text>
 </g><defs>
 
-<g id="A">
+<g id="A" no="-1">
 	<path d="M9,-6 L2,0 M9,6 L0,0"/>
 	<path d="M-11,-6 v4 h17 a2,2 0,0 0 0,-4z"/>
 	<circle r="6"/>
 </g>
-<g id="F">
+<g id="F" no="-1">
 	<polygon points="-2,-3 10,-3 -2,-13"/>
 	<polygon points="-12,-1 -6,5 6,5 12,-1"/>
 </g>
